@@ -15,6 +15,5 @@
                 printf("%d\n",i);
              }
      }
-      printf("LCM:%d",hcf);
    return 0;
 }
